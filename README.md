@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to cz shadow
 
-You can use the [editor on GitHub](https://github.com/Iacopo-Corda/helloween/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La pistola da competizione CZ Shadow 2 è stata progettata sulla base del vasto patrimonio d'esperienza e delle raccomandazioni dei tiratori sportivi del team CZ, e costruita facendo uso delle più recenti tecnologie per arrivare a concepire un'arma che superasse gli standard della sua progenitrice – la CZ 75 SP-01 Shadow – in tutti i punti salienti.
 
 ### Markdown
 
